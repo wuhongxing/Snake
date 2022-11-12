@@ -1,3 +1,4 @@
+![贪吃蛇](https://s17.aconvert.com/convert/p3r68-cdx67/0xh91-rvef1.gif)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
